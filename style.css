@@ -1,0 +1,50 @@
+ #img{
+    border-style: solid;
+    border-width:1px; 
+    border-color: gold;
+    /* margin-bottom: 5px; */
+}
+.output{
+    align-items: left;
+}
+nav{
+    border-style: solid;
+    border-width:4px; 
+    border-color: green;
+    
+    background-color: darkred;
+}
+h2{
+    text-align: center;
+    color: greenyellow;
+    padding-bottom: 15px;
+}
+/* h3{
+    margin: 0px;
+    padding: 0px;
+} */
+.copy-to-clipboard-button{
+    background-color:White!important;
+    cursor: pointer;
+    
+}
+
+pre{
+    height: fit-content;
+    margin: 0px;
+    padding: 0px;
+    overflow: none;
+    clear: both;
+}
+#navimg{
+    width:100%;
+
+}
+/*
+code{
+    float: left;
+}
+.bg{
+    
+    background-repeat: repeat ;
+} */
